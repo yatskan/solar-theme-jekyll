@@ -3,7 +3,6 @@ baseurl: /solar-theme-jekyll
 description: A stylish blog using the Solarized color palette
 
 gems:
-  - jekyll-redirect-from
   - jekyll-paginate
 
 permalink: /:year/:month/:day/:title/
