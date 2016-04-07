@@ -1,6 +1,6 @@
-name: Solar Theme
+name: Pricing Hacker
 # baseurl: /solar-theme-jekyll
-description: A stylish blog using the Solarized color palette
+description: "Growth Marketing and Pricing Strategy: Looking Under The Hood"  
 
 gems:
   - jekyll-paginate
