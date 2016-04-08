@@ -7,7 +7,7 @@ description: "Growth Marketing and Pricing Strategy: Looking Under The Hood"
 gems: [jekyll-paginate]
 
 permalink: /:year/:month/:day/:title/
-paginate: 5
+paginate: 10
 highlighter: rouge
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
