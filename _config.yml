@@ -1,12 +1,13 @@
-name: Pricing Hacker
+name: pricing hacker
 # baseurl: /solar-theme-jekyll
-description: "Growth Marketing and Pricing Strategy: Looking Under The Hood"  
+description: "Growth Marketing and Pricing Strategy: Looking Under The Hood"
 
-gems:
-  - jekyll-paginate
+
+
+gems: [jekyll-paginate]
 
 permalink: /:year/:month/:day/:title/
-paginate: 10
+paginate: 5
 highlighter: rouge
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']

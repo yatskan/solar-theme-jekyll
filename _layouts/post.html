@@ -4,16 +4,21 @@ layout: default
 <article class="post">
 
 	{% if page.external-url %}
-		<h1>
-			<a href="{{ page.external-url }}">{{ page.title }}</a> 
+		<h2>
+			<a href="{{ page.external-url }}">{{ page.title }}</a>
 			<a class="anchor" href="{{ site.baseurl }}{{ page.url }}"><i class="icon-anchor"></i></a>
-		</h1>
+		</h2>
 	{% else %}
-		<h1><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h1>
+	<!-- Place this tag in your head or just before your close body tag. -->
+	  <script src="https://apis.google.com/js/platform.js" async defer></script>
+		<h2><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
 	{% endif %}
 
 	<div class="post-content">{{ content }}</div>
 
 	<p class="meta">Posted on <span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>
 
+	<!-- Go to www.addthis.com/dashboard to customize your tools -->
+	<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5707388120de5687"></script>
+	
 </article>

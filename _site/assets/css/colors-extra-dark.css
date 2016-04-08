@@ -1,5 +1,5 @@
 html, body {
-	background-color: #002a35;
+	background-color: #002b36;
 	color: #839496;
 }
 
@@ -25,6 +25,11 @@ h1 {
 h2, h3 {
 	color: #cb4b16;
 }
+
+h4 {
+	color: #268bd2;
+}
+
 
 
 h1 a, h1 a:visited, h1 a:active {
@@ -79,7 +84,7 @@ blockquote {
 
 /*** Pygments ***/
 .highlight{
-	background-color: #073642;
+	background-color: #1c1c1c;
 	color: #93a1a1;
 	border: 1px solid #2d6472;
     border-radius: 3px 3px 3px 3px;

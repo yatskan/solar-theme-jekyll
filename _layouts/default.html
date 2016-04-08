@@ -11,7 +11,7 @@
   <![endif]-->
 
   <link href="{{ "/assets/css/style.css" | prepend: site.baseurl }}" rel="stylesheet" />
-  <link href="{{ "/assets/css/colors-dark.css" | prepend: site.baseurl }}" rel="stylesheet" />
+  <link href="{{ "/assets/css/colors-extra-dark.css" | prepend: site.baseurl }}" rel="stylesheet" />
 
 </head>
 
@@ -20,8 +20,9 @@
 
 
   <header id="header">
-    <h1><a href="{{ site.baseurl }}/"><i class="icon-sun"></i> {{ site.name }}</a></h1>
-    <p>{{ site.description }}</p>
+    <!--h1><a href="{{ site.baseurl }}/"><i class="icon-sun"></i> {{ site.name }}</a></h1-->
+    <h1><a href="{{ site.baseurl }}/"><img src="/images/ph_logo.svg" alt="PH logo" hight="50px" width="50px"> {{ site.name }}</a></h1>
+    <h4>{{ site.description }}</h4>
   </header>
 
 
@@ -33,11 +34,11 @@
     <div id="sidebar">
       <nav>
         <ul>
-          <li><a href="{{ site.baseurl }}/">Home</a></li>
-          <li><a href="{{ "/about" | prepend: site.baseurl }}">About</a></li>
-          <li><a href="{{ "/catch up" | prepend: site.baseurl }}">Catch Up</a></li>
-          <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS Feed</a></li>
-          <li><a href="{{ "/random earl" | prepend: site.baseurl }}">Random Earl</a></li>
+          <li><a href="{{ site.baseurl }}/">HOME</a></li>
+          <li><a href="{{ "/about" | prepend: site.baseurl }}">ABOUT</a></li>
+          <li><a href="{{ "/archive" | prepend: site.baseurl }}">ARCHIVE</a></li>
+          <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS FEED</a></li>
+          <li><a href="{{ "/random" | prepend: site.baseurl }}">RANDOM</a></li>
         </ul>
       </nav>
     </div>

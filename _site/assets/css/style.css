@@ -89,6 +89,10 @@ h3 {
 	margin: 0 0 10px 0;
 }
 
+h4 {
+	font-size: 15px;
+	margin: 0 0 10px 0;
+}
 
 
 /*** Useful Classes ***/
@@ -149,13 +153,13 @@ h3 {
 
 #sidebar li {
 	list-style: none;
-	margin: 2px 0;
+	margin: 3px 0;
 }
 
 #sidebar a {
 	border: none;
 	font-family: "Helvetica Neue", "Helvetica", serif;
-	font-size: 1.2em;
+	font-size: 1.1em;
 	padding: 2px 4px;
 }
 
@@ -166,14 +170,14 @@ article {
 	margin-bottom: 40px;
 }
 
-article h1 {
+article h2 {
 	font-size: 17px;
 	margin: 0 0 10px 0;
 }
-article h1 a {
+article h2 a {
 	border: none;
 }
-article h1 a.anchor {
+article h2 a.anchor {
 	margin-left: 8px;
 }
 
@@ -274,7 +278,7 @@ img.center {
   text-transform: none;
   line-height: 1.7;
 }
- 
+
 .icon-sun:before { content: '\e801'; }
 .icon-anchor:before { content: '\e800'; }
 .icon-anchor {
