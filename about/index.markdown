@@ -3,9 +3,18 @@ layout: default
 title: About
 ---
 
-This is where you would but a short bio, and/or a description of your site. It also serves as an example of how to set up a standalone page. For example:
+**pricing hacker** is a place for me to share my knowledge of and experience in pricing strategy and growth marketing. I welcome comments and requests to cover specific areas as well as sharing your own blog posts on these subjects.     
 
-<img src="{{ "/images/shakespeare.png" | prepend: site.baseurl }}" class="right" />
-**William Shakespeare** (26 April 1564 – 23 April 1616) was an English poet and playwright, widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist. He is often called England's national poet and the "Bard of Avon". His extant works, including some collaborations, consist of about 38 plays, 154 sonnets, two long narrative poems, and a few other verses, the authorship of some of which is uncertain. His plays have been translated into every major living language and are performed more often than those of any other playwright.
+I am also a restless polymath and have taken an interest in a variety of unrelated areas. You could find some of my thoughts in the *Random* section.  
 
-Shakespeare was born and brought up in Stratford-upon-Avon. At the age of 18, he married Anne Hathaway—no, not *that* Anne Hathaway—with whom he had three children.
+<img src="/images/yuvalyatskan.png" alt="Yuval Yatskan" height="180px" width="130px" class="right" />
+
+**Yuval Yatskan** brings his experience from *Symanec*, *Cisco* and *Salesforce* where he fulfilled some very interesting roles to support growth and pricing strategy. In addition, Yuval has served as a consultant to several early stages startups on pricing, marketing and growth strategies and has diverse hands on experience in those areas.  
+
+
+<a href="https://twitter.com/YuvalYatskan" class="twitter-follow-button" data-show-count="false">Follow @YuvalYatskan</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+If you'd like to get some more specific help with your marketing and growth needs, please feel free to drop me a line. <a href="mailto:yatskan@gmail.com?subject=Re:%20pricing%20hacker%20-%20Consultation">
+  <img src="/images/email_icon3.png" alt="Email Icon" style="width:28px;height:18px;">
+</a>
