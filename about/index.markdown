@@ -9,7 +9,7 @@ I am also a restless polymath and have taken an interest in a variety of unrelat
 
 <img src="/images/yuvalyatskan.png" alt="Yuval Yatskan" height="180px" width="130px" class="right" />
 
-**Yuval Yatskan** brings his experience from *Symanec*, *Cisco* and *Salesforce* where he fulfilled some very interesting roles to support growth and pricing strategy. In addition, Yuval has served as a consultant to several early stages startups on pricing, marketing and growth strategies and has diverse hands on experience in those areas.  
+**Yuval Yatskan** brings his experience from *Symanec*, *Cisco* and *Salesforce* where he fulfilled some very interesting roles to support growth and pricing strategy. In addition, Yuval has served as a consultant to several early stage startups on pricing, marketing and growth strategies and has diverse hands on experience in those areas.  
 
 
 <a href="https://twitter.com/YuvalYatskan" class="twitter-follow-button" data-show-count="false">Follow @YuvalYatskan</a>
